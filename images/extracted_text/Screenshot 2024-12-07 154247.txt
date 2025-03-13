@@ -1,0 +1,41 @@
+(Keeaey] © TD GRE) 0 20D
+
+SEBBSSBSBEBBEBBBoevE00000
+
+(efi YuetLus|say}yourZexpense] forkevery[monthfareplisted| below.)
+
+oO [2 Fo anuar yBe2200)
+
+oO & Gam © HED
+
+O tudo aD
+
+O &pH GED
+
+O &ty-aD
+
+oO
+e{createlablist{tofstore] theseluonthly expenses andlusing) that, find[out)
+oO
+
+(u]ieeinl eed, how]many{dollars}youl spent extra\coupare] toqjanuary 2]
+
+(sf2fFindlout}yourd totalfexpensezin}firstiquarterg (firstithrealmonths)rorathelyearsy
+
+feJ3 Prindloutpitfyoulspent{exact lyf2000[dollars¥in.any[month)
+
+(sJ4Fiuneluonthbjusth finished [andj yourZexpense]isyi9g0] dollar pAdd)} this}item|tofountmonthly {expenses list]
+[eJs"fvou[raturnedfan}iten)thathyoulboughtpinyal monthTor{Aorilfand)
+
+[sJeotfalrefund[of{200$ {Makefalcorrection}tojyourzmonthlyexpense}list)
+
+(s]based[on} this}
+
+fexpt=] (2203, 2350, 2603, 2130,2193]
+
+fea Jin] reds] how/many [dollars ]yauJspentLextral compare] cohjanuary 7
+[print(cin|febjthis| muchlextralwastspent{ compared] topjanza,exp[1] expla] )[#p150)
+
+fafa rindlouttyourgtotalfexpenseintt inst{qual tem ( finstatht ee oonths)Yorgthelyeady
+[print (Sexpensel ford Finstyquantenza,exp[a]sexp(1]+exp[2})\#7150)
+

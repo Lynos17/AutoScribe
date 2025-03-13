@@ -1,0 +1,20 @@
+Ms word 2013 practical
+1, Text enhancement, embolden Italleize, underline : highlight, click button B, YU @ HOME,
+2. Font changing-> highlight, down arrowhead next to font name, click to select .@ HOME
+3. Change the font size of text-Dhightight, click down arrow head next to font size, click select @ HOME.
+4. Cut, copy and paste
+(a) To cut text:-dhighlight text to be cut (or deleted) , click scissors button (or Edit, cut).
+(b) To copy text:-> highlight text to copy , click copy button (or Edit, copy).
+(©)To paste -> click on position, click paste button (or Edit, paste). @HOME
+4. Justification ( align text left, right, centre and justified) use buttons formatting toolbar (next to B ZL)
+Dhighlight, click button in the formatting toolbar @ HOME
+5. Line spacing-> formst, paragraph, change line spacing, clickokay @ HOME
+6. Page numbering INSERT, page numbering, make choices e.g. position, Format ete, click okay
+7. Borders shading > DESIGN, borders and shading , make choices, okay
+8. Bullets and numbering->position cursor to put bullets,click icon on tool bar 1,2,3. (to select type > Format,
+Bullets and Numbering, choose type click okay, @ HOME
+9. Changing case [Aa], , choose type , click okay @ HOME
+10. Use of tab key->Press tab key (on keyboard) [tab |] to align text any where in the page.
+11. Insert picture-SINSERT, picture, from clipart/from file, select picture, click insert
+12. Move/resize Picture/object-dclick on picture until handlers appear, move cousor to side & ->, drag to resize,
+if four arrows appears drag to move the whole picture.

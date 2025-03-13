@@ -1,0 +1,34 @@
+Ms_Excel
+1. Moving among cell use arrow keys € 3s>
+or mouse cursor or press Enter Key to go down, observing where
+the cell pointer ( moving highlighted block) is at. 4
+2. Edit / change existing text> move to cell and press FZ on the
+keyboard
+3. Delete text Smove to cell or highlight cells, press Delete, on a
+cell type in new items to overwrite exiting text.
+4, Enter label > type in letters or alphanumerical type in as they
+are , numbers begin with space or put spaces in them.
+5. Enter number/ value > write directlty start with ‘-" sign if
+nagative , no space to left out.
+6. Enter formula > start with "=" sign or : +" sign, no space to
+left out.
+7. Insert row> Edit , Insert row
+8. Insert column > Edit , Insert column
+9. Draw graph > highlight data, click chart wizard, follow
+instructions choosing options, clicking next to go to the next
+item, finally click finish to view graph.
+10. Align text > use appropriate icons for left, right, center and
+fully justification.
+11, Cell width/height setting>move mouse to beginning of cell
+(where the letters or numbers are) drag to increase or decrease
+cell width or height OR go to Format, Row or Column.
+12. Format currency> highlight, format, cells, currency , choose ,
+select decimals.
+13. Using functions >type in "= formular{range)" or move to cell to
+put formular , click @ icon and choose formular inserting wanted
+range e.g =Sum(A1:A5)
+14. Show Formulae>Tools, options, view, enable show formulae.
+
+Example
+a
+First 2.4 Number | Sum Subtract | Division | Multiplication

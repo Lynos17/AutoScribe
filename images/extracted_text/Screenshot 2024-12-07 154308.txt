@@ -1,0 +1,20 @@
+fea Jin] reds] how/many [dollars ]yauJspentLextral compare] cohjanuary 7
+[print(cin|febjthis| muchlextralwastspent{ compared] topjanza,exp[1] expla] )[#p150)
+
+fafa rindlouttyourgtotalfexpenseintt inst{qual tem ( finstatht ee oonths)Yorgthelyeady
+[print (Sexpensel ford Finstyquantenza,exp[a]sexp(1]+exp[2})\#7150)
+
+(«Fa Jrind[out hi tfyoulspentLexactlyf2c00[dollarsinzany[nonth)
+(print (Soid}rpspent] 2000s] intany months 512000] inlexp) Ts] False)
+
+(sJ4FiunelnonthpjusthfinishedlandjyourZexpense]isyi9go]dollanpAdd} thisyitem|tofountmonthly {expenses list]
+[print (; Expenses} atl the]end of faunezs,exp)[#J[2200,$2350,92600,92130,82190,91980 ]]
+
+[eJs"fvou[raturnedfan}iten)thathyoulboughtpinyal monthTor{Aorilfand)
+[sJeotfalrefund[of{200$ {Makefalcorrection}tojyourzmonthlyexpense}list)
+
+(s]basedfon} this}
+
+exp [33 fatexp[3] Ef200)
+
+[print (Sexpenses{after 200s {retucn|inAprilzg exp) Ee] [2200,42350)2600)41930)02190 951980]

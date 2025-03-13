@@ -1,0 +1,8 @@
+Practical Assignment 2
+
+Make a spreadsheet with at least 8 x15 rows and columns and a
+graphical analysis of the data involving some useful calculation
+in your area of study such as budgets calculations, what if analysis
+etc , making use of formulae, editing facilities, graph creation
+etc. Save the work on a diskette and make two hard copies one
+showing the processed data and another showing formulae entries.
